@@ -8,6 +8,8 @@ header {
     height: 48px;
     padding: 20px 18px;
     background: #0071DC;
+    position: sticky;
+    top: 0;
 }
 
 .btnHeader{
@@ -29,6 +31,7 @@ header {
     padding: 4px 24px;
     border-top: solid white 1px;
     background: #0071DC;
+    
 }
 
 #direccion{
